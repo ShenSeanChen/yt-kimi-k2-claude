@@ -1,6 +1,6 @@
 # 🚀 Kimi K2 + Claude Code Integration & NextJS Projects
 
-**Directory**: `/Users/shenseanchen/Desktop/Dev/yt-kimi-claude-cursor/`
+**Directory**: `/Users/your_computer/your_path/`
 
 This repository demonstrates the power of **Kimi K2** (Moonshot AI's 1T parameter model) integrated with **Claude Code** for advanced AI-assisted development, featuring practical NextJS projects and live coding demonstrations.
 
