@@ -1,5 +1,13 @@
 # 🚀 Kimi K2 + Claude Code Integration & NextJS Projects
 
+📹 Full YouTube Guide: [Youtube link](https://www.youtube.com/watch?v=dSS6DgErZXA&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR&index=21)
+
+🚀 X Post: [X link](https://x.com/ShenSeanChen/status/1947796273899139530)
+
+💻 Launch Full Stack Product: [Github Repo](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase)
+
+☕️ Buy me a coffee: [Cafe Latte](https://buy.stripe.com/5kA176bA895ggog4gh)
+
 **Directory**: `/Users/your_computer/your_path/`
 
 This repository demonstrates the power of **Kimi K2** (Moonshot AI's 1T parameter model) integrated with **Claude Code** for advanced AI-assisted development, featuring practical NextJS projects and live coding demonstrations.
