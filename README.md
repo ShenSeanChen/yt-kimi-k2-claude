@@ -8,6 +8,8 @@
 
 ☕️ Buy me a coffee: [Cafe Latte](https://buy.stripe.com/5kA176bA895ggog4gh)
 
+🤖️ Discord: [Invite link](https://discord.com/invite/TKKPzZheua)
+
 **Directory**: `/Users/your_computer/your_path/`
 
 This repository demonstrates the power of **Kimi K2** (Moonshot AI's 1T parameter model) integrated with **Claude Code** for advanced AI-assisted development, featuring practical NextJS projects and live coding demonstrations.
