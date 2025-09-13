@@ -40,7 +40,7 @@ echo 'export PATH="/Users/your_computer/.npm-global/bin:$PATH"' >> ~/.zshrc
 
 # 3. Configure API access
 export ANTHROPIC_AUTH_TOKEN="sk-your-moonshot-api-key"
-export ANTHROPIC_BASE_URL="https://api.moonshot.cn/anthropic"
+export ANTHROPIC_BASE_URL="https://api.moonshot/anthropic"
 
 # 4. Bypass region restrictions
 node -e "const fs=require('fs'),os=require('os'),path=require('path'); const file=path.join(os.homedir(),'.claude.json'); fs.writeFileSync(file,JSON.stringify({hasCompletedOnboarding:true},null,2));"
@@ -187,7 +187,7 @@ This section will showcase a new project built live using Kimi K2 + Claude Code 
 - [Personal Finance Dashboard Setup](./personal-finance-dashboard/SETUP.md)
 
 ### **API Documentation**
-- [Moonshot AI API Reference](https://platform.moonshot.cn/docs)
+- [Moonshot AI API Reference](https://platform.moonshot/docs)
 - [Supabase Documentation](https://supabase.com/docs)
 
 ### **Development Standards**
@@ -217,7 +217,7 @@ This section will showcase a new project built live using Kimi K2 + Claude Code 
 ```bash
 # Kimi K2 Integration
 ANTHROPIC_AUTH_TOKEN="sk-your-moonshot-api-key"
-ANTHROPIC_BASE_URL="https://api.moonshot.cn/anthropic"
+ANTHROPIC_BASE_URL="https://api.moonshot.ai/anthropic"
 
 # Supabase Configuration
 NEXT_PUBLIC_SUPABASE_URL="your-supabase-url"
