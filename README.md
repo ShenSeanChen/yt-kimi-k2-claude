@@ -40,7 +40,7 @@ echo 'export PATH="/Users/your_computer/.npm-global/bin:$PATH"' >> ~/.zshrc
 
 # 3. Configure API access
 export ANTHROPIC_AUTH_TOKEN="sk-your-moonshot-api-key"
-export ANTHROPIC_BASE_URL="https://api.moonshot/anthropic"
+export ANTHROPIC_BASE_URL="https://api.moonshot.ai/anthropic"
 
 # 4. Bypass region restrictions
 node -e "const fs=require('fs'),os=require('os'),path=require('path'); const file=path.join(os.homedir(),'.claude.json'); fs.writeFileSync(file,JSON.stringify({hasCompletedOnboarding:true},null,2));"
